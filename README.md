@@ -1,2 +1,3 @@
-# My-file
-Omelette recipe hai isme
+# A simple website 
+
+for phone
